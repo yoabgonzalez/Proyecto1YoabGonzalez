@@ -6,7 +6,7 @@ Programa: Ingeniería Eléctrica
 # Entrega 2
 Integrantes del grupo:
 1) Yoab Jerónimo González Duarte, cédula: 1014736757, Ingeniería eléctrica
-2) Johan Mateo Montes Correa, cédula: Ingeniería eléctrica
-3) Camilo Giraldo Marín, cédula: Ingeniería eléctrica
+2) Johan Mateo Montes Correa, cédula: 1000188785, Ingeniería eléctrica
 
-Enlace del video: 
+
+Enlace del video: https://youtu.be/_IMsw7RbIGY
